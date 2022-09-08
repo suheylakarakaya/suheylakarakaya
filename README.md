@@ -27,19 +27,19 @@ My field of interest data science and project development, especially but my goa
 </a>  
 
 #  
-  
+
 <br/>  
 
-- 🔭 I’m open to learning and exploring new technologies  
+ 🔭 I’m open to learning and exploring new technologies  
   
 
-- 🌱 I’m currently learning Python  
+🌱 I’m currently learning Python  
   
 
-- ❓ Ask me about anything related to Python, Data Analyst and Product Management  
+ ❓ Ask me about anything related to Python, Data Analyst and Product Management  
   
 
-- Tip: I am quite knowledgeable about Agile and Scrum methodology. You can consult 🍀  
+ Tip: I am quite knowledgeable about Agile and Scrum methodology. You can consult 🍀  
 <br/>  
 
 
