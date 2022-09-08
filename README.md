@@ -31,7 +31,7 @@ My field of interest data science and project development, especially but my goa
 <br/>  
 
 
-## Rapidfire  
+
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m open to learning and exploring new technologies  
@@ -48,9 +48,7 @@ My field of interest data science and project development, especially but my goa
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+ 
 
 
 </td></tr></table>  
