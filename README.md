@@ -81,6 +81,10 @@ My field of interest data science and project development, especially but my goa
 <br/>  
 
 
+
+
+
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=suheylakarakaya&&style=flat-square)  
   
 
