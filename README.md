@@ -32,7 +32,7 @@ My field of interest data science and project development, especially but my goa
 
 
 
-<table><tr><td valign="top" width="50%">
+
 
 - 🔭 I’m open to learning and exploring new technologies  
   
@@ -46,12 +46,7 @@ My field of interest data science and project development, especially but my goa
 - Tip: I am quite knowledgeable about Agile and Scrum methodology. You can consult 🍀  
 
 
-</td><td valign="top" width="50%">
 
- 
-
-
-</td></tr></table>  
 
 <br/>  
 
