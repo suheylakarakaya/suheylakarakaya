@@ -77,11 +77,11 @@ My field of interest data science and project development, especially but my goa
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="10%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=suheylakarakaya&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="10%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suheylakarakaya&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
