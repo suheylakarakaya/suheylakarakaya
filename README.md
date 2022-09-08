@@ -22,18 +22,13 @@
 
 ## Hey 👋, I'm Süheyla Karakaya!  
   
-
+  
 I am someone who tries to develop technical and soft skills together. During my bachelor's degree, I took an active role in product management for about 2 years. Simultaneously, I worked individually in the fields of python language and data science.
 
 My field of interest data science and project development, especially but my goal is to know all the details of the software and strive to be the best in a field. I still keep getting to know myself and my talents. I write and share articles on various topics and software on my Medium blog. I love to research and teach what I know.  
   
 
 <br/>  
-
-
-
-
-
 - 🔭 I’m open to learning and exploring new technologies  
   
 
@@ -44,10 +39,6 @@ My field of interest data science and project development, especially but my goa
   
 
 - Tip: I am quite knowledgeable about Agile and Scrum methodology. You can consult 🍀  
-
-
-
-
 <br/>  
 
 
@@ -79,11 +70,11 @@ My field of interest data science and project development, especially but my goa
 ## Github Stats  
 <table><tr><td valign="top" width="10%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suheylakarakaya&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=suheylakarakaya&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 25%" />
 
 </td><td valign="top" width="10%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suheylakarakaya&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suheylakarakaya&hide_border=true&layout=compact" align="left" style="width: 25%" />
 
 </td></tr></table>  
 
