@@ -73,6 +73,8 @@ My field of interest data science and project development, especially but my goa
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suheylakarakaya&hide_border=true&layout=compact" align="left" style="width: 30%" />
 
+</td></tr></table>  
+
 <br/>  
   
 
