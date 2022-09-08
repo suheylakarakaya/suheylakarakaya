@@ -69,14 +69,15 @@ My field of interest data science and project development, especially but my goa
 
 ## Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=suheylakarakaya&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=suheylakarakaya&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 30%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suheylakarakaya&hide_border=true&layout=compact" align="left" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suheylakarakaya&hide_border=true&layout=compact" align="left" style="width: 30%" />
 
 <br/>  
   
 
 <br/>  
+
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=suheylakarakaya&&style=flat-square)  
   
