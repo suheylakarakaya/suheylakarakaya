@@ -1,3 +1,10 @@
+## Hey 👋, I'm Süheyla Karakaya!  
+  
+  
+I am someone who tries to develop technical and soft skills together. During my bachelor's degree, I took an active role in product management for about 2 years. Simultaneously, I worked individually in the fields of python language and data science.
+
+My field of interest data science and project development, especially but my goal is to know all the details of the software and strive to be the best in a field. I still keep getting to know myself and my talents. I write and share articles on various topics and software on my Medium blog. I love to research and teach what I know.  
+  
 ### You can contact me from links below.
   
 <a href="https://linkedin.com/in/suheylakarakaya" target="_blank">
@@ -19,15 +26,6 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
   
-
-## Hey 👋, I'm Süheyla Karakaya!  
-  
-  
-I am someone who tries to develop technical and soft skills together. During my bachelor's degree, I took an active role in product management for about 2 years. Simultaneously, I worked individually in the fields of python language and data science.
-
-My field of interest data science and project development, especially but my goal is to know all the details of the software and strive to be the best in a field. I still keep getting to know myself and my talents. I write and share articles on various topics and software on my Medium blog. I love to research and teach what I know.  
-  
-
 <br/>  
 - 🔭 I’m open to learning and exploring new technologies  
   
