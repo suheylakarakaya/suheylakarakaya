@@ -5,7 +5,7 @@ I am someone who tries to develop technical and soft skills together. During my 
 
 My field of interest data science and project development, especially but my goal is to know all the details of the software and strive to be the best in a field. I still keep getting to know myself and my talents. I write and share articles on various topics and software on my Medium blog. I love to research and teach what I know.  
   
-### You can contact me from links below.
+### You can contact me from links below ⬇️
   
 <a href="https://linkedin.com/in/suheylakarakaya" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
