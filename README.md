@@ -64,8 +64,8 @@ My field of interest data science and project development, especially but my goa
 
 <br/>  
 
-
-[## Github Stats  
+<!--
+## Github Stats  
 
 <img src="https://github-readme-stats.vercel.app/api?username=suheylakarakaya&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 30%" />
 
@@ -85,5 +85,5 @@ My field of interest data science and project development, especially but my goa
 
 <br />
 
-----
-]
+---- 
+-->
