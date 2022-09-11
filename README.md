@@ -13,7 +13,7 @@ My field of interest data science and project development, especially but my goa
 <a href="https://twitter.com/iamsuheyla" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/suheylakarakaya" target="_blank">
+<a href="https://medium.com/@suheylakarakaya" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/suheylakarakaya" target="_blank">
