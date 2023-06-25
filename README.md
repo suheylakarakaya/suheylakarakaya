@@ -1,9 +1,11 @@
 ## Hey 👋, I'm Süheyla Karakaya!  
   
   
-I am someone who tries to develop technical and soft skills together. During my bachelor's degree, I took an active role in product management for about 2 years. Simultaneously, I worked individually in the fields of python language and data science.
+I am someone who tries to develop technical and soft skills together. During my bachelor's degree, I took an active role in product management for about 2 years. Then I continued my career in product management. Simultaneously, I did individual projects in the fields of python language and data science.
 
-My field of interest data science and project development, especially but my goal is to know all the details of the software and strive to be the best in a field. I still keep getting to know myself and my talents. I write and share articles on various topics and software on my Medium blog. I love to research and teach what I know.  
+I am interesting with data science, AI and product management. I think that digital outputs have an important role in product management and roadmap.
+
+I love traveling, getting to know new cultures, researching and being in good relations with people. I have been to 15 countries and many cities. New perspectives have provided significant gains both in my social life and in my career. I continue to explore the world.
   
 ### You can contact me from links below ⬇️
   
