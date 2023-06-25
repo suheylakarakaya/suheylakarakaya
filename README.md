@@ -33,7 +33,7 @@ My field of interest data science and project development, especially but my goa
 🌱 I’m currently learning Python.
   
 
- ❓ Ask me about anything related to Python, Data Analyst and Product Management.
+ ❓ Ask me about anything related to Python, Data Analysys and Product Management.
   
 
  Tip: I am quite knowledgeable about Agile and Scrum methodology. You can consult 🍀  
