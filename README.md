@@ -5,7 +5,7 @@ I am someone who tries to develop technical and soft skills together. During my 
 
 I am interesting with data science, AI and product management. I think that digital outputs have an important role in product management and roadmap.
 
-I love traveling, getting to know new cultures, researching and being in good relations with people. I have been to 15 countries and many cities. New perspectives have provided significant gains both in my social life and in my career. I continue to explore the world.
+I love traveling, getting to know new cultures, researching and being in good relations with people. I have been to +20 countries and many cities. New perspectives have provided significant gains both in my social life and in my career. I continue to explore the world.
   
 ### You can contact me from links below ⬇️
   
